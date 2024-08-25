@@ -1,6 +1,6 @@
 # Projeto Single Page do Atelie de Doces da Tia 😋 🍩🎂🧁🍩
 
-### O Atelier das Delícias da Tia pode ser descrito como um espaço acolhedor e criativo, onde a paixão pela culinária se transforma em verdadeiras obras de arte gastronômicas. Com um ambiente que exala o charme e a nostalgia de receitas caseiras, o atelier oferece uma variedade de delícias, desde bolos e doces, etc.
+### O Atelier das Delícias da Tia pode ser descrito como um espaço acolhedor e criativo, onde a paixão pela culinária se transforma em verdadeiras obras de arte gastronômicas... 
 
 #### No site do Atelier das Delícias da Tia, você encontrará uma deliciosa seleção de doces que vão encantar seu paladar. Algumas das gostosuras que podem estar disponíveis incluem:
 
